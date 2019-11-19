@@ -37,3 +37,4 @@ def update(request, id):
 
 def test(request):
     return render(request, "crud/test.html")
+print(svweyfiuwuefgw)
